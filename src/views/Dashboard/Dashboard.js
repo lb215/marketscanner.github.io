@@ -10,11 +10,11 @@ function Dashboard() {
     return (
         <Fragment>
             <div style={{textAlign: "right", paddingRight: "1rem"}}>
-                <span style={{fontSize: "0.8rem"}}>{(new Date()).toDateString()}</span>
+                <span style={{fontSize: "0.8rem"}}>{(new Date(Entities.Date)).toDateString()}</span>
             </div>
 
             <Page.Content title="Dashboard">
-                {Entities.map(data =>
+                {Entities.Flows.map(data =>
                 (<Grid.Row cards={true}>
                     <Grid.Col width={12} 
                             sm={6} 
