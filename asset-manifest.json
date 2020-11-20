@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marketscanner.github.io/static/css/main.518ce94c.chunk.css",
+    "main.js": "/marketscanner.github.io/static/js/main.e4fe5180.chunk.js",
+    "main.js.map": "/marketscanner.github.io/static/js/main.e4fe5180.chunk.js.map",
+    "runtime-main.js": "/marketscanner.github.io/static/js/runtime-main.4c85acf6.js",
+    "runtime-main.js.map": "/marketscanner.github.io/static/js/runtime-main.4c85acf6.js.map",
+    "static/css/2.5cd84151.chunk.css": "/marketscanner.github.io/static/css/2.5cd84151.chunk.css",
+    "static/js/2.a9772b04.chunk.js": "/marketscanner.github.io/static/js/2.a9772b04.chunk.js",
+    "static/js/2.a9772b04.chunk.js.map": "/marketscanner.github.io/static/js/2.a9772b04.chunk.js.map",
+    "static/js/3.093e2cb6.chunk.js": "/marketscanner.github.io/static/js/3.093e2cb6.chunk.js",
+    "static/js/3.093e2cb6.chunk.js.map": "/marketscanner.github.io/static/js/3.093e2cb6.chunk.js.map",
+    "index.html": "/marketscanner.github.io/index.html",
+    "static/css/2.5cd84151.chunk.css.map": "/marketscanner.github.io/static/css/2.5cd84151.chunk.css.map",
+    "static/css/main.518ce94c.chunk.css.map": "/marketscanner.github.io/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.a9772b04.chunk.js.LICENSE.txt": "/marketscanner.github.io/static/js/2.a9772b04.chunk.js.LICENSE.txt",
+    "static/media/Tabler.css": "/marketscanner.github.io/static/media/zw.a70e41e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c85acf6.js",
+    "static/css/2.5cd84151.chunk.css",
+    "static/js/2.a9772b04.chunk.js",
+    "static/css/main.518ce94c.chunk.css",
+    "static/js/main.e4fe5180.chunk.js"
+  ]
+}
