@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marketscanner.github.io/static/css/main.51a9a942.chunk.css",
-    "main.js": "/marketscanner.github.io/static/js/main.3a63a2aa.chunk.js",
-    "main.js.map": "/marketscanner.github.io/static/js/main.3a63a2aa.chunk.js.map",
+    "main.js": "/marketscanner.github.io/static/js/main.751eacf7.chunk.js",
+    "main.js.map": "/marketscanner.github.io/static/js/main.751eacf7.chunk.js.map",
     "runtime-main.js": "/marketscanner.github.io/static/js/runtime-main.9af92577.js",
     "runtime-main.js.map": "/marketscanner.github.io/static/js/runtime-main.9af92577.js.map",
     "static/css/2.5cd84151.chunk.css": "/marketscanner.github.io/static/css/2.5cd84151.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.5cd84151.chunk.css",
     "static/js/2.7630c1a0.chunk.js",
     "static/css/main.51a9a942.chunk.css",
-    "static/js/main.3a63a2aa.chunk.js"
+    "static/js/main.751eacf7.chunk.js"
   ]
 }
